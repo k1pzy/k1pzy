@@ -3,7 +3,7 @@
 ## Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,cpp,cpp,cpp,cpp,cpp,cpp,cpp" alt="cpp,cpp,cpp,cpp,cpp,cpp,cpp,cpp">
+    <img src="https://skillicons.dev/icons?i=rust,python,rust,python,rust,python,rust,python" alt="rust,python,rust,python,rust,python,rust,python">
   </a>
 </p>
 
